@@ -1,1 +1,1 @@
-# TuBesC-
+Program ini Memodelkan data kebun binatang dan  hewan dalam  bentuk multi linked-list, dimana kebun binatang dapat memiliki lebih dari satu hewan.hewan dapat dimiliki oleh banyak kebun binatang. Menggunakan model multi list M to N dengan 3 list yaitu, list kebun binatang, list hewan, dan list relasi. Model dasar yang digunakan double linked list untuk list hewan, dan single linked list untuk list kebun binatang.
